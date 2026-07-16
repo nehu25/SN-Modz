@@ -109,6 +109,21 @@
       "ratingCount": 325000,
       "createdAt": "2026-07-16T11:45:07.053Z",
       "updatedAt": "2026-07-16T11:53:20.407Z"
+    },
+    {
+      "id": "app_mrnp55h9_embej",
+      "name": "Hot Movies Premium",
+      "slug": "hot-movies-premium",
+      "logo": "https://play-lh.googleusercontent.com/ILWyVvevUm6L8fgshea3nlY9KewbB7tRLe7XQUAVzyKly7aYQhheCPEMBdKh5P-PnMXolkOSyudUVBF7A2eCJLg=w240-h480-rw",
+      "version": "3.6.8",
+      "size": "9.38 MB",
+      "downloadLink": "https://github.com/nehu25/SN-Modz/releases/download/v1/Hot_Movies_Updated_14_July.apk",
+      "adLink": "https://abackmentor.com/w1ycbegh?key=c9928ff06a863769c41ee6e92d9931ce",
+      "description": "-All Premium Videos Unlocked\n-All Ads Removed",
+      "rating": 4.9,
+      "ratingCount": 689000,
+      "createdAt": "2026-07-16T16:01:26.013Z",
+      "updatedAt": "2026-07-16T16:01:26.013Z"
     }
   ]
 }
