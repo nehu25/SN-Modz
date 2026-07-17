@@ -6,6 +6,21 @@
   },
   "apps": [
     {
+      "id": "app_mroib2xm_bsun6",
+      "name": "TeraBox Premium",
+      "slug": "terabox-premium",
+      "logo": "https://play-lh.googleusercontent.com/b9KKZIvnQ_X3eIqHXeR4e0Ftd3lrDgAIkJ8N1fAvgl6zpTLuX8m74aVlRnoeLQCcAnLMbSMRJGLvsmghheZe=w240-h480-rw",
+      "version": "4.20.1",
+      "size": "203 MB",
+      "downloadLink": "https://github.com/nehu25/SN-Modz/releases/download/v1/TeraBox_v4.20.1_PREMIUM_.apk",
+      "adLink": "https://abackmentor.com/w1ycbegh?key=c9928ff06a863769c41ee6e92d9931ce",
+      "description": "-SignUp/Login with Facebook/Phone Number/ Email Because Google Login Will Not Work After Mod\n-Premium Unlocked",
+      "rating": 4.8,
+      "ratingCount": 548796,
+      "createdAt": "2026-07-17T05:37:51.513Z",
+      "updatedAt": "2026-07-17T05:37:51.513Z"
+    },
+    {
       "id": "app_mroi1267_35867",
       "name": "QuickTV Premium",
       "slug": "quicktv-premium",
@@ -199,21 +214,6 @@
       "ratingCount": 325000,
       "createdAt": "2026-07-16T11:45:07.053Z",
       "updatedAt": "2026-07-16T11:53:20.407Z"
-    },
-    {
-      "id": "app_mroib2xm_bsun6",
-      "name": "TeraBox Premium",
-      "slug": "terabox-premium",
-      "logo": "https://play-lh.googleusercontent.com/b9KKZIvnQ_X3eIqHXeR4e0Ftd3lrDgAIkJ8N1fAvgl6zpTLuX8m74aVlRnoeLQCcAnLMbSMRJGLvsmghheZe=w240-h480-rw",
-      "version": "4.20.1",
-      "size": "203 MB",
-      "downloadLink": "https://github.com/nehu25/SN-Modz/releases/download/v1/TeraBox_v4.20.1_PREMIUM_.apk",
-      "adLink": "https://abackmentor.com/w1ycbegh?key=c9928ff06a863769c41ee6e92d9931ce",
-      "description": "-SignUp/Login with Facebook/Phone Number/ Email Because Google Login Will Not Work After Mod\n-Premium Unlocked",
-      "rating": 4.8,
-      "ratingCount": 548796,
-      "createdAt": "2026-07-17T05:37:51.513Z",
-      "updatedAt": "2026-07-17T05:37:51.513Z"
     }
   ]
 }
